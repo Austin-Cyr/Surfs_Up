@@ -10,6 +10,8 @@ W. Avy is considering whether to open a surf and ice cream shop in Hawaii. Befor
 
 The results of the analysis are shown in the following summary statistics for each month. 
 
+![name-of-you-image](https://github.com/Austin-Cyr/Surfs_Up/blob/main/December_Temps.PNG)
+
 ##Summary:
 
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
